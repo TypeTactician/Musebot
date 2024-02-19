@@ -2,6 +2,9 @@ from openai import OpenAI
 import streamlit as st
 from src.utils import RESTApiClient
 
+with open('style.css') as f:
+    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+    
 CHATBOT_NAME = "Riwa-AI"
 HOST = "http://104.238.180.27:8000"
 REST_API_KEY = "ebd5d852-df11-4b31-941b-22439c9356a3"
