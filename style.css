@@ -1,0 +1,57 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.st-emotion-cache-1r4qj8v {
+  position: absolute;
+  background: #343541;
+  color: rgb(49, 51, 63);
+  inset: 0px;
+  color-scheme: light;
+  overflow: hidden;
+}
+
+.st-emotion-cache-uhkwx6 {
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+  min-width: 100%;
+  background-color: #343541;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  z-index: 99;
+}
+
+h1 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+  padding: 1.25rem 0px 1rem;
+  margin: 0px;
+  line-height: 1.2;
+}
+
+.st-emotion-cache-1up18o9:disabled, .st-emotion-cache-1up18o9:disabled:hover, .st-emotion-cache-1up18o9:disabled:active {
+  background-color: #444654;
+  border-color: #FFFFFF;
+  color: rgb(163, 168, 184);
+}
+
+.st-emotion-cache-1c7y2kd {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #494c61;
+}
+
+.st-emotion-cache-4oy321 {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 1rem 0px 1rem 1rem;
+  border-radius: 0.5rem;
+  background-color: #adacac;
+}
